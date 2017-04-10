@@ -3,7 +3,7 @@
 ## 摘要
 
 * [简介](README.md)
-* 词汇表
+* [版权](ban-quan.md)
 
 ## Tech
 
