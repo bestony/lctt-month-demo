@@ -1,2 +1,2 @@
-# lctt-month-demo
-LCTT 月刊 小样
+# LCTT 月刊 - 2013年9月刊
+------
