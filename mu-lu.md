@@ -1,19 +1,20 @@
 # 目录
 
 ## 科技新闻
+
 * [售价350-400美元的太阳能笔记本ubuntub SOL 将于2013年12月问世](talk/$350-$400 Solar-powered Ubuntu laptop SOL to be launched worldwide in December 2013.md)
-* [5800名Ubuntu用户的2013年Ubuntu云计算调查结果公布](talk/5,800 Ubuntu users' 2013 Ubuntu cloud survey results published.md)
+* \[5800名Ubuntu用户的2013年Ubuntu云计算调查结果公布\]\(talk/5,800 Ubuntu users' 2013 Ubuntu cloud survey results published.md\)
 * [我是标题党：“高清无码大图”展示开源编程语言的20年历史](talk/A Visual History Of The Last 20 Years Of Open Source Code.md)
 * [感谢各大移动厂商，感谢android，Linux核心代码迎来大发展！](talk/Android-Friendly Linux Code Gets Big Boost From Mobile Companies.md)
 * [Canonical公司推出“Ubuntu Voice”，旨在利用用户的反馈](talk/Canonical Launches ‘Ubuntu Voice’ Initiative, Aims to Harness User Feedback.md)
-* [Fedora 20 Alpha GNOME Live DVD 开放下载
-](talk/Fedora 20 Alpha GNOME Live DVD Download.md)
+* \[Fedora 20 Alpha GNOME Live DVD 开放下载
+  \]\(talk/Fedora 20 Alpha GNOME Live DVD Download.md\)
 * [GNOME Shell 3.10 Beta 2 引入新的系统状态栏](talk/GNOME Shell 3.10 Beta 2 Implements New System Status Area.md)
 * [德国慕尼黑开始免费向WinXP用户分发Ubuntu12.04光盘](talk/German City Starts Distributing Free Ubuntu 12.04 CDs to Windows XP Users.md)
 * [LinuxCon大会：Google Android是开源产品](talk/Google Android Is Open Source- LinuxCon.md)
 * [惠普在华的1500家门店开始销售Ubuntu笔记本电脑](talk/HP to Stock Ubuntu Laptops in 1,500 China Stores.md)
 * [Linux Defenders怎样先发制人阻止恶意软件专利被批准](talk/How Linux defenders attack bad software patents before they’re approved.md)
-* [“3”是Canonical公司的运营商咨询组最新成员吗？](talk/Is '3′ The Latest Member of Canonical’s Carrier Advisory Group.md)
+* \[“3”是Canonical公司的运营商咨询组最新成员吗？\]\(talk/Is '3′ The Latest Member of Canonical’s Carrier Advisory Group.md\)
 * [Linux是最好的操作系统吗？](talk/Is Linux the best operating system.md)
 * [Libreoffice 4.1.1已发布，及在Ubuntu和Linux Mint平台安装方法](talk/Libreoffice 4.1.1 Released, Install It On Ubuntu And Linux Mint.md)
 * [轻量级标记语言](talk/Lightweight Markup Languages.md)
@@ -21,9 +22,9 @@
 * [Linux Kernel 3.4.62 LTS 现已经提供下载](talk/Linux Kernel 3.4.62 LTS Is Now Available for Download.md)
 * [透过数字看Linux的快速发展](talk/Linux development by the numbers--Big and getting bigger.md)
 * [Linux "HoT"银行木马：失败的恶意软件](talk/Linux “HoT” bank Trojan- Failed malware.md)
-* [认识StartUbuntu——一个开放参与，以进一步扩展Ubuntu认可度为目标的有趣项目](talk/Meet StartUbuntu, interesting open-for-participation project aimed at further spreading Ubuntu's adoption.md)
+* \[认识StartUbuntu——一个开放参与，以进一步扩展Ubuntu认可度为目标的有趣项目\]\(talk/Meet StartUbuntu, interesting open-for-participation project aimed at further spreading Ubuntu's adoption.md\)
 * [MineSweeper Touch增添了漂亮的Suru元素](talk/MineSweeper Touch enriched with beautiful Suru elements.md)
-* [MintBox 2现在接受订购，售价为599美元（Linux Mint 迷你电脑）](talk/MintBox 2 now available for order for $599 (Mini-PC with Linux Mint).md)
+* \[MintBox 2现在接受订购，售价为599美元（Linux Mint 迷你电脑）\]\(talk/MintBox 2 now available for order for $599 \(Mini-PC with Linux Mint\).md\)
 * [基于Ubuntu13.04的多媒体制作工作室ArtistX 1.5 发行版](talk/Multimedia Production Studio ArtistX 1.5 Distro Is Based on Ubuntu 13.04.md)
 * [Nautilus-Open-Terminal : 可随处打开终端的 Nautilus 插件](talk/Nautilus-Open-Terminal - Nautilus Plugin To Open Terminal From Anywhere.md)
 * [Ubuntu 10.04 LTS受Linux新内核漏洞影响](talk/New Kernel Vulnerabilities Affect Ubuntu 10.04 LTS.md)
@@ -59,4 +60,6 @@
 * [GNOME 3.10有哪些值得期望?](tech/What Should You Expect from GNOME 3.10.md)
 * [WinUSB: 在linux上创建一个Windows的可引导的U盘](tech/WinUSB--Create A Bootable Windows USB In Linux.md)
 * [screenFetch: 命令行信息截图工具](tech/screenfetch-the-bash-screenshot-information-toolmd.md)
+
+
 
