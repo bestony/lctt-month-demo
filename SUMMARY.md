@@ -8,12 +8,11 @@
 
 ## Tech
 
-* [screenFetch- The BASH Screenshot Information Tool.md](tech/screenfetch-the-bash-screenshot-information-toolmd.md)
 * [集成命令提示符、堪称“多才多艺”的命令行文件管理器 - CLEX](tech/CLEX – A Versatile Command Line File Manager With Integrated Command Prompt.md)
 * [如何在Linux上添加或编辑文件系统的卷标](tech/How To Add or Edit a Linux File System Label.md)
 * [怎样在Ubuntu 13.04,12.10,12.04安装Qmmp 0.7.2](tech/How To Install Qmmp 0.7.2 On Ubuntu 13.04, 12.10, 12.04.md)
 * [如何使用Pacifica图标美化你的linux桌面](tech/How to Beautify Your Linux Desktop with Pacifica Icons.md)
-* [##如何在Ubuntu下安装Google云端硬盘客户端](tech/How to Install a Google Drive Client on Ubuntu.md)
+* [如何在Ubuntu下安装Google云端硬盘客户端](tech/How to Install a Google Drive Client on Ubuntu.md)
 * [怎样选择你的最佳商用Linux服务器](tech/How to choose the best Linux server for your business.md)
 * [如何轻松备份及恢复Firefox和Chromium的浏览器数据](tech/How to easily backup and reuse data of Firefox and Chromium.md)
 * [在CentOS 6.4上安装Ampache流媒体服务](tech/Install Ampache Streaming Media Server On CentOS 6.4.md)
@@ -29,14 +28,14 @@
 * [好消息！Weather App更新美化界面啦！](tech/Weather App refines its visuals.md)
 * [](tech/What Should You Expect from GNOME 3.10.md)
 * [WinUSB: 在linux上创建一个Windows的可引导的U盘](tech/WinUSB--Create A Bootable Windows USB In Linux.md)
-* [# screenFetch: 命令行信息截图工具](tech/screenfetch-the-bash-screenshot-information-toolmd.md)
+* [screenFetch: 命令行信息截图工具](tech/screenfetch-the-bash-screenshot-information-toolmd.md)
 
 ## Talk
 * [售价350-400美元的太阳能笔记本ubuntub SOL 将于2013年12月问世](talk/$350-$400 Solar-powered Ubuntu laptop SOL to be launched worldwide in December 2013.md)
 * [5800名Ubuntu用户的2013年Ubuntu云计算调查结果公布](talk/5,800 Ubuntu users' 2013 Ubuntu cloud survey results published.md)
 * [我是标题党：“高清无码大图”展示开源编程语言的20年历史](talk/A Visual History Of The Last 20 Years Of Open Source Code.md)
 * [感谢各大移动厂商，感谢android，Linux核心代码迎来大发展！](talk/Android-Friendly Linux Code Gets Big Boost From Mobile Companies.md)
-* [##Canonical公司推出“Ubuntu Voice”，旨在利用用户的反馈](talk/Canonical Launches ‘Ubuntu Voice’ Initiative, Aims to Harness User Feedback.md)
+* [Canonical公司推出“Ubuntu Voice”，旨在利用用户的反馈](talk/Canonical Launches ‘Ubuntu Voice’ Initiative, Aims to Harness User Feedback.md)
 * [Fedora 20 Alpha GNOME Live DVD 开放下载
 ](talk/Fedora 20 Alpha GNOME Live DVD Download.md)
 * [GNOME Shell 3.10 Beta 2 引入新的系统状态栏](talk/GNOME Shell 3.10 Beta 2 Implements New System Status Area.md)
@@ -64,5 +63,5 @@
 * [技术胜过教条——关于开源的一些见解](talk/Technology Trumps Dogma, And Other Open Source Insights.md)
 * [Linux Mint信息库于9月18日关闭](talk/The Linux Mint Repositories are Closed on September 18.md)
 * [Torvalds的SSD硬盘故障 延迟Linux 内核3.12发布](talk/Torvalds’ Dead SSD Delays 3.12 Linux Kernel.md)
-* [##通过推出Ubuntu Voice，Ubuntu进一步扩展了其开放性，正式开放供参与用户体验网络。](talk/Ubuntu further extends its openness by launching UbuntuVoice, official open-for-participation user experience network.md)
+* [通过推出Ubuntu Voice，Ubuntu进一步扩展了其开放性，正式开放供参与用户体验网络。](talk/Ubuntu further extends its openness by launching UbuntuVoice, official open-for-participation user experience network.md)
 * [Ubuntu Touch HD 截图赏析 - 至今走过的路](talk/Ubuntu_Touch_HD_Screenshot_Tour_–_The_Road_So_Far.md)
