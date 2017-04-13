@@ -4,7 +4,6 @@
 
 * [简介](README.md)
 * [版权](ban-quan.md)
-* [目录](mu-lu.md)
 
 ## 科技新闻
 * [售价350-400美元的太阳能笔记本ubuntub SOL 将于2013年12月问世](talk/$350-$400 Solar-powered Ubuntu laptop SOL to be launched worldwide in December 2013.md)
