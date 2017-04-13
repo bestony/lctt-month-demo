@@ -1,14 +1,23 @@
 {
-    "plugins" : [ "anchors", "ribbon" ],
-
-"pluginsConfig": {
-  "theme-default": {
-    "showLevel": true
-  },
-  "ribbon": {
-    "color": "black",
-    "text": "参与月刊编辑",
-    "url": "https://github.com/bestony/lctt-month-demo"
+  "plugins": [
+    "anchors",
+    "ribbon",
+    "page-footer-ex",
+    "back-to-top-button"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    },
+    "ribbon": {
+      "color": "black",
+      "text": "参与月刊编辑",
+      "url": "https://github.com/bestony/lctt-month-demo"
+    },
+    "page-footer-ex": {
+      "copyright": "Linux 中国",
+      "update_label": "更新于",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    }
   }
-}
 }
