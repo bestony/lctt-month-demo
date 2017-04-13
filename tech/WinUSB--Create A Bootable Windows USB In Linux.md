@@ -46,11 +46,11 @@ WinUSB可以运行在命令行下(终端)，我们可以在终端中使用如下
 
 **Dash > WinUSB**
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/WinUSB_dash.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/WinUSB_dash.png)
 
 启动之后,选择.iso文件和设备,点击安装即可.
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/WinUSB.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/WinUSB.png)
 
 
 

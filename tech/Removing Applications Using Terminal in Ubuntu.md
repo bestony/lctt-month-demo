@@ -17,7 +17,7 @@ b. 输入
 
 （这条命令会显示所有已安装的包）
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/list_.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/list_.png)
 
 或者
 
@@ -25,7 +25,7 @@ b. 输入
 
 （这样可以轻松的使用用户密钥来导航）
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/dpkg_list.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/dpkg_list.png)
 
 或者
 
@@ -35,11 +35,11 @@ b. 输入
 
 以**VLC**播放器为例。
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/vlc_grep.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/vlc_grep.png)
 
 c. 查找要删除的包名字，这里我要使用**sox**。
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/remove_SoX.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/remove_SoX.png)
 
 d. 只删除一个软件包，使用下面的命令：
 
@@ -51,7 +51,7 @@ d. 只删除一个软件包，使用下面的命令：
 
 输入y来确认卸载。
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/sox2.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/sox2.png)
 
 e. 要删除一个包以及它的配置文件，输入：
 

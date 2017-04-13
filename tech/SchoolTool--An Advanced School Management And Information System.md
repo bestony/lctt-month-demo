@@ -53,23 +53,23 @@ SchoolTool是在官方软件仓库中找到的，所以，我们可以用命令�
 
 现在，你可以从你的浏览器上用URL **http://ip-address:7080** 来访问SchoolTool网页控制台。你将看到一个空白的日历，如下图所示。
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/Your-School-%C2%BB-Today-Mozilla-Firefox_001-1024x620.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/Your-School-%C2%BB-Today-Mozilla-Firefox_001-1024x620.png)
 
 ###初始化配置，更改管理员密码
 
 SchoolTool默认的管理员账户是“ **manger** ”，密码是“ **schooltool** ”。登录使用以上认证。
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/Log-In-Mozilla-Firefox_002-1024x620.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/Log-In-Mozilla-Firefox_002-1024x620.png)
 
 在上面定位到 **Home** 按钮。点击 **Password** 下方的 **Setting** 部分。输入两次旧密码和新密码并单击Apply。
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/SchoolTool-Administrator-%C2%BB-Password-Mozilla-Firefox_004-1024x620.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/SchoolTool-Administrator-%C2%BB-Password-Mozilla-Firefox_004-1024x620.png)
 
 ###服务设置
 
 登录管理员账户。在Server部分，你将发现你的SchoolTool服务器的细节。
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/Server-Mozilla-Firefox_005-1024x620.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/Server-Mozilla-Firefox_005-1024x620.png)
 
 
 ###设置外发邮件
@@ -78,14 +78,14 @@ SchoolTool并不像Sendmail或Postfix扮演着邮件服务器的工作。它将�
 
 若要在SchoolTool中启用邮件功能，登录管理账户并转到Server列表。点击 **Outgoing Email** 链接。在那之后，点击黄色铅笔图标去更改邮件设置。填充smtp，Email和password并单击apply。
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/Server-%C2%BB-Outgoing-Email-Settings-Mozilla-Firefox_008-1024x620.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/Server-%C2%BB-Outgoing-Email-Settings-Mozilla-Firefox_008-1024x620.png)
 
 
 ###设置日历
 
 按照你的区域位置设置日历很重要。点击Server部分的 **Calendar** 列表。选择你的时区，我的设置是 **Asia/Kolkatta** 。
 
-![](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/Server-%C2%BB-Calendar-Settings-Mozilla-Firefox_009-1024x620.png)
+![](http://www.unixmen.com/wp-content/uploads/2013/09/Server-%C2%BB-Calendar-Settings-Mozilla-Firefox_009-1024x620.png)
 
 
 转到其他链接，如Errors，Tabs和Pack Database。管理操作系统是不言而喻的。按照你的需求阅读和改变设置。
