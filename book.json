@@ -1,0 +1,14 @@
+{
+    "plugins" : [ "anchors", "ribbon" ],
+
+"pluginsConfig": {
+  "theme-default": {
+    "showLevel": true
+  },
+  "ribbon": {
+    "color": "black",
+    "text": "参与月刊编辑",
+    "url": "https://github.com/bestony/lctt-month-demo"
+  }
+}
+}
