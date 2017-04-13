@@ -44,7 +44,7 @@ screenFetch将显示以下系统信息：
 
 输出示例：
 
-![img](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/sk@sk-screenfetch-3.1.0_008.png)
+![img](http://www.unixmen.com/wp-content/uploads/2013/09/sk@sk-screenfetch-3.1.0_008.png)
 
 ###通过git库安装
 
