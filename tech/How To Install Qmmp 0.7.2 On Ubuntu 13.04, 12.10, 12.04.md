@@ -40,21 +40,21 @@ Qmmp 的实际稳定版本为0.7.2，已于8月26日发布。该程序非常强�
 
 	$sudo add-apt-repository ppa:forktov02/ppa
 
-![img](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/Selection_033.png)
+![img](http://www.unixmen.com/wp-content/uploads/2013/09/Selection_033.png)
 
-![img](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/Selection_034.png)
+![img](http://www.unixmen.com/wp-content/uploads/2013/09/Selection_034.png)
 
 然后更新源列表，输入：
 
 	$sudo apt-get update
 
-![img](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/Selection_035.png)
+![img](http://www.unixmen.com/wp-content/uploads/2013/09/Selection_035.png)
 
 更新完后，我们下载qmpp,qmmp-plugin-pack,然后安装它们。
 
 	$sudo apt-get install qmmp qmmp-plugin-pack;
 
-![img](http://180016988.r.cdn77.net/wp-content/uploads/2013/09/Selection_036.png)
+![img](http://www.unixmen.com/wp-content/uploads/2013/09/Selection_036.png)
 
 via：http://www.unixmen.com/install-qmmp-0-7-2-ubuntu-13-04-12-10-12-04/
 
