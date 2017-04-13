@@ -32,7 +32,7 @@
 * [MintBox 2现在接受订购，售价为599美元（Linux Mint 迷你电脑）](talk/MintBox 2 now available for order for $599 (Mini-PC with Linux Mint).md)
 * [基于Ubuntu13.04的多媒体制作工作室ArtistX 1.5 发行版](talk/Multimedia Production Studio ArtistX 1.5 Distro Is Based on Ubuntu 13.04.md)
 * [Nautilus-Open-Terminal : 可随处打开终端的 Nautilus 插件](talk/Nautilus-Open-Terminal - Nautilus Plugin To Open Terminal From Anywhere.md)
-* [](talk/New Kernel Vulnerabilities Affect Ubuntu 10.04 LTS.md)
+* [Ubuntu 10.04 LTS受Linux新内核漏洞影响](talk/New Kernel Vulnerabilities Affect Ubuntu 10.04 LTS.md)
 * [新OpenSUSE的树莓派镜像](talk/New OpenSUSE Raspberry Pi Image.md)
 * [强大的电子书编辑器Sigil搬到新开发区，寻求代码贡献和积极参与](talk/Powerful ebook editor Sigil moved to new development area, looking for code contributions and active participation.md)
 * [Red Hat正与Intel紧密协作，力争在Fedora 21中默认加入Wayland](talk/Red Hat and Intel Working Closely to Bring Wayland as Default for Fedora 21.md)
@@ -62,7 +62,7 @@
 * [Ubuntuzilla: 安装最新版Mozilla软件的简单方法](tech/Ubuntuzilla--An Easy Way To Install Latest Mozilla Software.md)
 * [增加了新功能并修复了1000个bug的VLC 2.1发布](tech/VLC 2.1 released with new features and 1000 bug fixes.md)
 * [好消息！Weather App更新美化界面啦！](tech/Weather App refines its visuals.md)
-* [](tech/What Should You Expect from GNOME 3.10.md)
+* [GNOME 3.10有哪些值得期望?](tech/What Should You Expect from GNOME 3.10.md)
 * [WinUSB: 在linux上创建一个Windows的可引导的U盘](tech/WinUSB--Create A Bootable Windows USB In Linux.md)
 * [screenFetch: 命令行信息截图工具](tech/screenfetch-the-bash-screenshot-information-toolmd.md)
 
